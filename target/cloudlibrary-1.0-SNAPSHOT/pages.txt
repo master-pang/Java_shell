@@ -1,0 +1,2 @@
+page1,<html><body><h1>Page 1</h1></body></html>
+page2,<html><body><h1>Page 2</h1></body></html>
